@@ -1,2 +1,2 @@
 # GitWorkshop
-this file is created by me
+This file was created by me.
